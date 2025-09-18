@@ -1,0 +1,21 @@
+{
+  "name": "@DiptsZyx",
+  "symbol": "DOGE",
+  "description": "Much wow such token 100x potential",
+  "image": "https://pbs.twimg.com/profile_images/1940992555149410304/JrPtqPuk_normal.jpg",
+  "external_url": "https://x.com/DiptsZyx",
+  "attributes": [
+    {
+      "trait_type": "Platform",
+      "value": "X (Twitter)"
+    },
+    {
+      "trait_type": "Username",
+      "value": "@DiptsZyx"
+    },
+    {
+      "trait_type": "Created",
+      "value": "2025-09-18T09:58:00.993Z"
+    }
+  ]
+}
