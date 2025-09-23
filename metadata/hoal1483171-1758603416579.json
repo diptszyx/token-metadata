@@ -1,0 +1,21 @@
+{
+  "name": "@HoaL1483171",
+  "symbol": "TEST",
+  "description": "Test token for development",
+  "image": "https://pbs.twimg.com/profile_images/1940992555149410304/JrPtqPuk_normal.jpg",
+  "external_url": "https://x.com/HoaL1483171",
+  "attributes": [
+    {
+      "trait_type": "Platform",
+      "value": "X (Twitter)"
+    },
+    {
+      "trait_type": "Username",
+      "value": "@HoaL1483171"
+    },
+    {
+      "trait_type": "Created",
+      "value": "2025-09-23T04:56:56.579Z"
+    }
+  ]
+}
