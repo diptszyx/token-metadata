@@ -1,0 +1,21 @@
+{
+  "name": "@testuser",
+  "symbol": "TEST",
+  "description": "Test token for development",
+  "image": "https://pbs.twimg.com/profile_images/1940992555149410304/JrPtqPuk_normal.jpg",
+  "external_url": "https://x.com/testuser",
+  "attributes": [
+    {
+      "trait_type": "Platform",
+      "value": "X (Twitter)"
+    },
+    {
+      "trait_type": "Username",
+      "value": "@testuser"
+    },
+    {
+      "trait_type": "Created",
+      "value": "2025-09-23T01:12:25.273Z"
+    }
+  ]
+}
