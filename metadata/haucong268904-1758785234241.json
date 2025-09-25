@@ -1,0 +1,21 @@
+{
+  "name": "@HauCong268904",
+  "symbol": "HAU",
+  "description": "This is a test token created via mock data",
+  "image": "https://pbs.twimg.com/profile_images/1934992581638955008/MEdjulct_normal.png",
+  "external_url": "https://x.com/HauCong268904",
+  "attributes": [
+    {
+      "trait_type": "Platform",
+      "value": "X (Twitter)"
+    },
+    {
+      "trait_type": "Username",
+      "value": "@HauCong268904"
+    },
+    {
+      "trait_type": "Created",
+      "value": "2025-09-25T07:27:14.241Z"
+    }
+  ]
+}
